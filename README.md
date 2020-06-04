@@ -1,7 +1,14 @@
 # Space-Invaders
-This is a space invader game developed using python.
+This is a space invader game developed using python.  
+<br/>
+
+![Screenshot](img/screenshot.png "Screen1")
 
 __________________________________________________________________________
+
+
+
+
 ## Usage
 
 1. Open your Terminal/cmd
@@ -15,6 +22,7 @@ __________________________________________________________________________
 <br/>
 
 or Execute:
+
 
 ```
 SpaceInvaders.cmd
