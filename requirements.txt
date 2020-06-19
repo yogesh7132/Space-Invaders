@@ -1,1 +1,2 @@
-pygame
+pygame==1.9.6
+cx_Freeze==6.1
